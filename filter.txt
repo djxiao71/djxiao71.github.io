@@ -1,4 +1,5 @@
 # Quantumult X: 2021-05-09 13:13:56
+host-suffix, azureedge.net, proxy
 host-suffix, cercube.com, proxy
 host-suffix, isvjcloud.com, proxy
 user-agent, FlyChat*, proxy
